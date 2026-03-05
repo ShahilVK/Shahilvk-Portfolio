@@ -21,7 +21,7 @@ const projects = [
     tech: ["ASP.NET Core", "SQL Server", "React.js", "Redux", "Tailwind"],
     // Updated image to a cleaner Unsplash URL
     image: "https://i.pinimg.com/736x/76/1c/74/761c749dafe37daa7cd575491fbddb04.jpg", 
-    link: "#",
+    link: "https://tektrov.vercel.app/",
     github: "#"
   },
 //   {
