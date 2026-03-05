@@ -64,7 +64,7 @@ export default function Navbar() {
       >
         {/* Logo */}
         <div className="text-white font-bold text-xl md:text-2xl tracking-tighter cursor-pointer z-50">
-          SHAHIL<span className="text-primary">.DEV</span>
+          SHAHIL<span className="text-primary">.VK</span>
         </div>
 
         {/* Desktop Links */}
